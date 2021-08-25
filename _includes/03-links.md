@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+![Connect with me on LinkedIn](https://www.linkedin.com/in/bayleedobler/)
